@@ -1,6 +1,6 @@
 # Ajitem Sahasrabuddhe
 
-- 🔭 I’m currently working as **Director of Software Engineering** @ **[engineering.com](https://www.engineering.com)**
+- 🔭 I’m currently working as **Technology Consultant** @ **[Technogise](https://www.technogise.com)**
 - 💬 Ask me about Golang, Kubernetes, Istio, Docker
 - 📫 How to reach me: me@ajitem.com
 <!-- 🌱 I’m currently learning ...
